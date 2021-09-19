@@ -9,7 +9,8 @@ const functions = require('./functions');
 // const initDatabase = () => console.log('Database Initialized...');
 // const closedDatabase = () => console.log('Database Closed...');
 
-const nameCheck = () => console.log('Checking Name...'); 
+const nameCheck = () => console.log('Checking Name..., it worked'); 
+console.log('omg, is this automatic?'); 
 
 
 
