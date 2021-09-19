@@ -11,6 +11,7 @@ const functions = require('./functions');
 
 const nameCheck = () => console.log('Checking Name..., it worked'); 
 console.log('omg, is this automatic?'); 
+console.log('this is change 3 now'); 
 
 
 
